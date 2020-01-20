@@ -1,5 +1,5 @@
 
-# 1. FeedForward Neural Network
+# FeedForward Neural Network
 
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
