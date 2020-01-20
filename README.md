@@ -1,4 +1,4 @@
-<img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = 10)
+<img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "10">
 ![AR Logo](https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png)
 
 # AML Assignments Repository
