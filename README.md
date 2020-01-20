@@ -1,8 +1,5 @@
 <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500">
-<p align = "center">
-  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png" width = "250">
-</p>    
-    
+
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
 
@@ -59,3 +56,8 @@ The task consists of 2 steps:
 For the Optimization purposes SMAC3 package has been used, while the Neural Networks have been defined with the help of Scikit Learn library
 
 The results obtained are evaluated, with a focus on the evolution of the optimization process. 
+
+<p align = "center">
+  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png" width = "250">
+</p>    
+    
