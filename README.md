@@ -1,4 +1,4 @@
-![DS Logo](images/DS Logo.png)
+[DS Logo](images/DS Logo.png)
 
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
