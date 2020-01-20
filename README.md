@@ -6,7 +6,7 @@
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
 
-## 1. FeedForward Neural Network
+## 1. [FeedForward Neural Network](AML_Assignments/FFNN)
 [FFNN](AML_Assignments/FFNN)
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
