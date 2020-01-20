@@ -1,7 +1,7 @@
 
 # Hyperparameters Optimization
 
-In this repo you can find the [Python Notebook](https://github.com/RaffaeleAns/AML-Assignments/blob/master/HPO/HPO_Script.ipynb) and a brief [report](https://github.com/RaffaeleAns/AML-Assignments/blob/master/HPO/HPO_Report.pdf) written in Italian.
+In this repo you can find the [Python Notebook](https://github.com/RaffaeleAns/AML-Assignments/blob/master/HPO/HPO_Script.ipynb) and a brief [report](https://github.com/RaffaeleAns/AML-Assignments/blob/master/HPO/HPO_Report.pdf).
 
 The task of the assignment is Hyperparameter Optimization (HPO) of a neural network, with the aim to maximize its Accuracy on 10 fold cross validation.
 The dataset to use is named "fertility", available on the "OpenML" website: https://www.openml.org/d/1473
