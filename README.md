@@ -67,7 +67,7 @@ The task consists of 2 steps:
  
  - Step 2: HPO for just 4 neural network's hyperparameters: learning rate, momentum and the number of units in the two hidden layers.
 
-For the Optimization purposes SMAC3 package has been used, while the Neural Networks have been defined with the help of Scikit Learn library
+For the Optimization purposes [SMAC3](https://github.com/automl/SMAC3) package has been used, while the Neural Networks have been defined with the help of Scikit Learn library
 
 The results obtained are evaluated, with a focus on the evolution of the optimization process. 
 
