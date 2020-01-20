@@ -1,4 +1,5 @@
-![DS Logo](https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png)
+![DS Logo](https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png)
+![AR Logo](https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png)
 
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
