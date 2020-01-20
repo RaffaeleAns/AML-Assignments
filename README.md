@@ -8,7 +8,7 @@ During the course of Advanced Machine Learning, I have developed 5 Assignments a
 
 ## 1. FeedForward Neural Network
 
-[FFNN Folder](AML_Assignments/FFNN)
+[FFNN Folder](AML_Assignments/FFNN/)
 
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
