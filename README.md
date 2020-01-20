@@ -1,4 +1,7 @@
-<img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500">
+<p float="left">
+ <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "500"/>
+ <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100"/>
+</p>
 
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
