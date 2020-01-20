@@ -7,7 +7,7 @@
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
 
 ## 1. FeedForward Neural Network
-
+[FFNN](AML_Assignments/FFNN)
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
 The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. 
