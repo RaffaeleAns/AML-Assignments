@@ -1,6 +1,8 @@
 
 # FeedForward Neural Network
 
+In this repo you can find the [notebook](https://github.com/RaffaeleAns/AML-Assignments/blob/master/FFNN/FFNN_Script.ipynb) and a brief [report](https://github.com/RaffaeleAns/AML-Assignments/blob/master/FFNN/FFNN_Report.pdf) written in Italian.
+
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
 The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. 
