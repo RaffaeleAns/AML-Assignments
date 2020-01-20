@@ -1,7 +1,7 @@
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments, in particular:
 
-1. ## FeedForward Neural Network
+## 1. FeedForward Neural Network
 
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
@@ -13,7 +13,7 @@ Some preprocessing operations were needed to deal with unbalanced classes.
 
 The results are evaluated and compared.
 
-2. ## Autoencoders 
+## 2. Autoencoders 
 
 The assignment consists on the prediction of grayscale images of letters P - Z of handwritten letter dataset with a visual investigation of the reconstruction abilities of an auto-encoder architecture.
 
@@ -21,14 +21,14 @@ The Dataset consists of 14000 training labelled images and 8800 test images.
 
 The Analysis has been conducted in 3 steps: first I have explored the dataset and made the preprocessing operations needed; second the Neural Network has been compiled and evaluated; last, the autoencoder's reconstruction abilities have been investigated and a Neural Network with encoded input has been designed, evaluated and compared with the baseline one. 
 
-3. ## Convolutional Neural Network
+## 3. Convolutional Neural Network
 
 The task of the assignment is the design of a CNN architecture and its training overt the MNIST digits dataset.
 
 After the classic preprossing operations, the Convolutional Neural Network has been designed with respect to the hard constraint of a maximum 7.5 k parameters. 
 The CNN, its architecture and its performances have been widely discussed in the report.
 
-4. ## Transfer Learning
+## 4. Transfer Learning
 
 The task of the assignment is Transfer Learning using a CNN pretrained on IMAGENET.
 
@@ -39,7 +39,7 @@ The preprocessing operations include a Data Augmentation phase, in order to redu
 
 The results of three specialized classification models, that uses VGG16 as feature extractor at different levels, are evaluated and compared.
 
-5. ## Hyperparameters Optimization
+## 5. Hyperparameters Optimization
 
 The task of the assignment is Hyperparameter Optimization (HPO) of a neural network, with the aim to maximize its Accuracy on 10 fold cross validation.
 The dataset to use is named "fertility", available on the "OpenML" website: https://www.openml.org/d/1473
