@@ -8,7 +8,7 @@ During the course of Advanced Machine Learning, I have developed 5 Assignments a
 
 ## 1. FeedForward Neural Network
 
-[FFNN Folder](AML_Assignments/FFNN/)
+[FFNN Folder](FFNN/)
 
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
@@ -22,7 +22,7 @@ The results are evaluated and compared.
 
 ## 2. Autoencoders 
 
-[Autoencoders Folder](AML_Assignments/Autoencoders)
+[Autoencoders Folder](AutoEncoders/)
 
 The assignment consists on the prediction of grayscale images of letters P - Z of handwritten letter dataset with a visual investigation of the reconstruction abilities of an auto-encoder architecture.
 
@@ -32,7 +32,7 @@ The Analysis has been conducted in 3 steps: first I have explored the dataset an
 
 ## 3. Convolutional Neural Network
 
-[CNN Folder](AML_Assignments/CNN)
+[CNN Folder](CNN/)
 
 
 The task of the assignment is the design of a CNN architecture and its training overt the MNIST digits dataset.
@@ -42,7 +42,7 @@ The CNN, its architecture and its performances have been widely discussed in the
 
 ## 4. Transfer Learning
 
-[TL Folder](AML_Assignments/TL)
+[TL Folder](Transfer%Learning/ )
 
 The task of the assignment is Transfer Learning using a CNN pretrained on IMAGENET.
 
@@ -55,7 +55,7 @@ The results of three specialized classification models, that uses VGG16 as featu
 
 ## 5. Hyperparameters Optimization
 
-[HPO Folder](AML_Assignments/HPO)
+[HPO Folder](HPO/)
 
 The task of the assignment is Hyperparameter Optimization (HPO) of a neural network, with the aim to maximize its Accuracy on 10 fold cross validation.
 The dataset to use is named "fertility", available on the "OpenML" website: https://www.openml.org/d/1473
