@@ -1,7 +1,7 @@
 
 # FeedForward Neural Network
 
-In this repo you can find the [notebook](https://github.com/RaffaeleAns/AML-Assignments/blob/master/FFNN/FFNN_Script.ipynb) and a brief [report](https://github.com/RaffaeleAns/AML-Assignments/blob/master/FFNN/FFNN_Report.pdf) written in Italian.
+In this repo you can find the [Python Notebook](https://github.com/RaffaeleAns/AML-Assignments/blob/master/FFNN/FFNN_Script.ipynb) and a brief [report](https://github.com/RaffaeleAns/AML-Assignments/blob/master/FFNN/FFNN_Report.pdf) written in Italian.
 
 The assignment consists in the prediction of default payments using a feed Forward Neural Network.
 
