@@ -1,6 +1,6 @@
-<img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "100">
-![AR Logo](https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png)
-
+<img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/DS%20Logo.png" width = "1000">
+<img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/AR%20Logo.png= width = "1000" align = "center">
+                                                                                                                          
 # AML Assignments Repository
 During the course of Advanced Machine Learning, I have developed 5 Assignments about different topics of Deep Learning:
 
